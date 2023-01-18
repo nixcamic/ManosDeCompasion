@@ -6,7 +6,7 @@
 
       <loc>http://www.guatemalaministry.com/index.html</loc>
 
-      <lastmod>2017-08-25</lastmod>
+      <lastmod>2023-01-16</lastmod>
 
       <changefreq>monthly</changefreq>
 
@@ -18,7 +18,7 @@
 
       <loc>http://www.guatemalaministry.com/manos-de-compasion-house-profiles.html</loc>
 
-      <lastmod>2017-08-25</lastmod>
+      <lastmod>2023-01-16</lastmod>
 
       <changefreq>monthly</changefreq>
 
@@ -26,5 +26,16 @@
 
    </url>
    
+       <url>
+
+      <loc>http://www.guatemalaministry.com/manos-de-compasion-aviation.html</loc>
+
+      <lastmod>2023-01-16</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>1.0</priority>
+
+   </url>
   
 </urlset>
