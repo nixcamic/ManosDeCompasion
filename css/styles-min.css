@@ -172,12 +172,12 @@ a:hover {
 #HistoryAndCurrentLeaders h2 {
   font-family: 'Concert One', cursive;
   text-align: center;
-  margin: 60px auto 50px auto;
+  margin: 90px auto 50px auto;
   font-size: 26px; }
 
 #HistoryAndCurrentLeaders p {
   width: 585px;
-  margin: 90px auto 0px auto;
+  margin: 20px auto 100px auto;
   font-size: 16px;
   text-align: justify;
   font-family: 'Open Sans', cursive;
