@@ -181,13 +181,13 @@ a:hover{
 #aboutUs h2{
 	font-family: 'Concert One', cursive;
 	text-align: center;	
-	margin:90px auto 50px auto;
+	margin:50px auto 50px auto;
 	font-size: 26px;
 }
 
 #aboutUs p{
 	width:600px;
-	margin:20px auto 100px auto;
+	margin:20px auto 70px auto;
 	font-size: 16px;
 	text-align: justify;
 	font-family: 'Open Sans', cursive;
